@@ -1,4 +1,4 @@
-# Spana: Leave Management App
+# SIANA: Leave Management App
 
 ### Usage
 - Users can submit leave requests
@@ -12,7 +12,7 @@
 
 <img src="/spanaOG.png" alt="project-Img" />
 
-## <a href="https://youtu.be/F_d3TviPLOk?si=ACY13MBcpQEbg1wb"> Video Tutorial </a>
+
 
 ### Tech-Stack
 The app was built using the following technologies:
@@ -27,14 +27,11 @@ The app was built using the following technologies:
 
 
 
-#### Clone the repo
-`https://github.com/de-mawo/spana-yt.git `
+
 
 Install packages
 `yarn `
 
-#### Setup the .env file
-- See the `.env.example ` file
 
 #### Setup Prisma
 `yarn prisma generate`
