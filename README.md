@@ -8,7 +8,7 @@
 - Admins can add settings and edit balances
 
 ### Author 
-- Prince De Mawo 
+- Ouma
 
 <img src="/spanaOG.png" alt="project-Img" />
 
